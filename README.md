@@ -1,6 +1,6 @@
 # Name:priyanka R
-# ref no:21223220081
-# Linux-File-IO-Systems-locking
+# ref no: 21223220081
+# Linux-F ile-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 # AIM:
 To Write a C program that illustrates files copying and locking
