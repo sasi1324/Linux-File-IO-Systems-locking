@@ -1,5 +1,3 @@
-# Name:priyanka R
-# ref no: 21223220081
 # Linux-F ile-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 # AIM:
@@ -85,9 +83,3 @@ int main() {
 
 RESULT:
 The programs are executed successfully.
-
-
-
-
-
-
